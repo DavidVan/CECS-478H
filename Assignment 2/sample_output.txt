@@ -1,0 +1,71 @@
+Regular Portion:
+
+Which portion of the assignment do you want to run? Run: "regular" or "honors"?
+regular
+How do you want to decode the sentences? Using: "bigram", "trigram", or "quadgram" (I recommend using quadgram)?
+quadgram
+Notice: you may need to run this program several times to get the right answers for all sentences.
+
+Decrypting Sentence 1...
+Best guess so far: rungaminincendtaelsnistguedincerthofaceoonaareeg
+Best guess so far: whensidedemaerosactedtonhardemawoulysmallesswaan
+Best guess so far: lrncefiningandseamuniuscradingalsothegattneelaac
+Best guess so far: sionlytotomeodalewhothaniedtomesacrulmerrollseen
+Best guess so far: fdalsitatameanosewhatholdentamefourysmerrassfeel
+Best guess so far: hwastunanamearitedcanciswernamehiplotmellatthees
+Best guess so far: lgantosasareaditechashingedsarelimbutrebbattleen
+Best guess so far: whatsinanamearosexpanpothernamewouldsmellassweet
+
+Sentence 1 Decrypted: whatsinanamearosebyanyothernamewouldsmellassweet
+
+Sentence 1 Cleaned Up: whats in a name a rose by any other name would smell as sweet
+
+Decrypting Sentence 2...
+Best guess so far: itepeopeisnitarclinoafoiaryadedapliinceistoimngsoriorbodiepitoiinerhnmainrymitesalelindforwarboutaeveiteleunrb
+Best guess so far: theseasetcuthorintuaowatoryolelosnttuietchatpubcartarmaltesthattuergupoturyptheconentulwarformadhoevethenedurm
+Best guess so far: thedeadetwothingstoaimatinfireridsttogetwhatlouwantanbartedthattoenpolitonflthewisestormanyinbachievetheseconb
+Best guess so far: therearetwothinkstoaimatingifefirsttoketwhatlouwantandafterthattoenpolitonglthewisestofmanyindachievethesecond
+Best guess so far: therearetwothinkstoaimatinlifefirsttoketwhatyouwantangafterthattoenjoyitonlythewisestofmandingachievethesecong
+
+Sentence 2 Decrypted: therearetwothingstoaimatinlifefirsttogetwhatyouwantandafterthattoenjoyitonlythewisestofmankindachievethesecond
+
+Sentence 2 Cleaned Up: there are two things to aim at in life first to get what you want and after that to enjoy it only the wisest of man kind achieve the second
+
+Decrypting Sentence 3...
+Best guess so far: justdidahanejustaspertheerfereeagathinnuatcalotmeisragathedenuathupfrmemptinatanstatiasttoitnfulaj
+Best guess so far: contmimahasecontanredtheedledeeagathissoatfabutweindagathemesoathorldwewrtisatasntatianttuitslobac
+Best guess so far: contmamihisecontinuedtheedpedeeifithassoitwilytreandifithemesoithoupdrerutasitisntitainttyatspolic
+Best guess so far: montrirahasemontanuedtheedledeeagathissoatpacytbeindagatheresoathouldbebutisatasntatianttyitslocam
+Best guess so far: contrarihisecontinuedtheedledeeifithassoityimptbeandifitheresoithouldbebutasitisntitainttpatslomic
+
+Sentence 3 Decrypted: contrariwisecontinuedtweedledeeifitwassoitmightbeandifitweresoitwouldbebutasitisntitaintthatslogic
+
+Sentence 3 Cleaned Up: contrariwise continued tweedle dee if it was so it might be and if it were so it would be but as it isnt it aint thats logic
+
+Decrypting Sentence 4...
+Best guess so far: tuiesavetocsealricusotefacianmiomollcettunakecuewolfanettiadusiotthonorcutsundiarerinearectgnumewenacecemballriesunldsecdtariotsollcusunteiejcuserirollallsoriociomuptrocarehnodesavetacdsajetsioleriesandectlympentriethonorttecrnbtleehotruugatrsiofimatrentiotmokiracdriemyndenenceanttrealriolbtiuurockrietiagrtgnumiotpus
+Best guess so far: sohewavesinwealthnowisecanharmhimillnessoragenoexilcaresshadowhisspiritnoswordhatethreatensfromexeranenemyalltheworldwendsathiswillnoworseheknowethtillallwithinhimobstinatepridewavesandwakeswhilethewardenslumbersthespiritssentrysleepistoofastwhichmastershismightandthemurderernearsstealthilyshootingtheshaftsfromhisbow
+
+Sentence 4 Decrypted: sohewaxesinwealthnowisecanharmhimillnessoragenoevilcaresshadowhisspiritnoswordhatethreatensfromeveranenemyalltheworldwendsathiswillnoworseheknowethtillallwithinhimobstinatepridewaxesandwakeswhilethewardenslumbersthespiritssentrysleepistoofastwhichmastershismightandthemurderernearsstealthilyshootingtheshaftsfromhisbow
+
+Sentence 4 Cleaned Up: so he waxes in wealth no wise can harm him illness or age no evil cares shadow his spirit no sword hate threatens from ever an enemy all the world wends at his will no worse he knoweth till all within him obstinate pride waxes and wakes while the warden slumbers the spirits sentry sleep is too fast which masters his might and the murderer nears stealthily shooting the shafts from his bow
+
+Honors Portion:
+
+Which portion of the assignment do you want to run? Run: "regular" or "honors"?
+honors
+
+Encoding: sentence 1 using key: mgquykncxptdhvzaserlofjwbiMGQUYKNCXPTDHVZASERLOFJWBI
+Original: He who fights with monsters should look to it that he himself does not become a monster. And if you gaze long into an abyss, the abyss also gazes into you.
+Encoded: Cy jcz kxnclr jxlc hzvrlyer rczodu dzzt lz xl lcml cy cxhrydk uzyr vzl gyqzhy m hzvrlye. Mvu xk bzo nmiy dzvn xvlz mv mgbrr, lcy mgbrr mdrz nmiyr xvlz bzo.
+Decoded: He who fights with monsters should look to it that he himself does not become a monster. And if you gaze long into an abyss, the abyss also gazes into you.
+
+Encoding: sentence 2... using key: bknqzulactseowpdvhmfyxgijrBKNQZULACTSEOWPDVHMFYXGIJR
+Original: There is a theory which states that if ever anybody discovers exactly what the Universe is for and why it is here, it will instantly disappear and be replaced by something even more bizarre and inexplicable. There is another theory which states that this has already happened.
+Encoded: Fazhz cm b fazphj gacna mfbfzm fabf cu zxzh bwjkpqj qcmnpxzhm zibnfej gabf faz Ywcxzhmz cm uph bwq gaj cf cm azhz, cf gcee cwmfbwfej qcmbddzbh bwq kz hzdebnzq kj mpozfacwl zxzw ophz kcrbhhz bwq cwzidecnbkez. Fazhz cm bwpfazh fazphj gacna mfbfzm fabf facm abm behzbqj abddzwzq.
+Decoded: There is a theory which states that if ever anybody discovers exactly what the Universe is for and why it is here, it will instantly disappear and be replaced by something even more bizarre and inexplicable. There is another theory which states that this has already happened.
+
+Encoding: sentence 3... using key: iyarwtufjenvdoqxlcskzpghbmIYARWTUFJENVDOQXLCSKZPGHBM
+Original: Whenever I find myself growing grim about the mouth; whenever it is a damp, drizzly November in my soul; whenever I find myself involuntarily pausing before coffin warehouses, and bringing up the rear of every funeral I meet; and especially whenever my hypos get such an upper hand of me, that it requires a strong moral principle to prevent me from deliberately stepping into the street, and methodically knocking people's hats off - then, I account it high time to get to sea as soon as I can.
+Encoded: Gfwowpwc J tjor dbswvt ucqgjou ucjd iyqzk kfw dqzkf; gfwowpwc jk js i ridx, rcjmmvb Oqpwdywc jo db sqzv; gfwowpwc J tjor dbswvt jopqvzokicjvb xizsjou ywtqcw aqttjo gicwfqzsws, ior ycjoujou zx kfw cwic qt wpwcb tzowciv J dwwk; ior wsxwajivvb gfwowpwc db fbxqs uwk szaf io zxxwc fior qt dw, kfik jk cwlzjcws i skcqou dqciv xcjoajxvw kq xcwpwok dw tcqd rwvjywcikwvb skwxxjou jokq kfw skcwwk, ior dwkfqrjaivvb noqanjou xwqxvw's fiks qtt - kfwo, J iaaqzok jk fjuf kjdw kq uwk kq swi is sqqo is J aio.
+Decoded: Whenever I find myself growing grim about the mouth; whenever it is a damp, drizzly November in my soul; whenever I find myself involuntarily pausing before coffin warehouses, and bringing up the rear of every funeral I meet; and especially whenever my hypos get such an upper hand of me, that it requires a strong moral principle to prevent me from deliberately stepping into the street, and methodically knocking people's hats off - then, I account it high time to get to sea as soon as I can.
