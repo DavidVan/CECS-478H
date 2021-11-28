@@ -1,0 +1,7 @@
+First, I disabled address space randomization on the OS (Ubuntu 16.04 x64)
+
+Then I compile vuln.c and exploit.c with stack protection off using GCC (-fno-stack-protector)
+
+After that, I execute the vuln program with the output of exploit as the input using:
+
+./vuln ($./exploit)

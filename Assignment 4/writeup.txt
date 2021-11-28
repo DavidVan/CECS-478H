@@ -1,0 +1,25 @@
+I had fun playing around with the save game file. It was interesting to see how games of yore approached saving states. These games simply wrote the binary representation of numbers and strings to a file. Games nowadays might approach these saved states a lot differently since there is more going on. This leads to a much more complex save game file structure.
+
+Offsets:
+
+Character Stats (Every 32 bytes... These are the base offsets, so add 32 bytes every character [16 characters in total including the avatar {your character}]):
+14 (0xE): STR - Changed to 99
+15 (0xF): DEX - Changed to 99
+16 (0x10): INT - Changed to 99
+18-19 (0x12-0x13): HP - Changed to 999
+20-21 (0x14-0x15): HM (HP MAX) - Changed to 999
+22-23 (0x16-0x17): EXP - Changed to 9999
+
+Other Items/Stats:
+516 (0x204): Gold - Changed to 9999
+518 (0x206): Keys - Changed to 100
+522 (0x20A): Magic Carpet - Changed to 2
+523 (0x20B): Skull Keys - Changed to 100
+536 (0x218): Black Badge - Changed to 1
+576 (0x240): Magic Axe - Changed to 10
+
+I found these offsets by playing the game a bit. I noticed the characters were saved near the beginning of the file and started looking at the character stats.
+
+I noticed that the save file seemed to have just saved binary representations of strings and numbers. The save file was not complex at all. I proceeded to try and find and match stats from the game to the save file. From that, I was able to find where the offset for INT, STR, etc. were located. I then changed these values.
+
+For items, I played the game a bit and gathered some items. From that, I noticed that the items were stored near the bottom half of the save file. This area was mostly just zeros, so I started changing them to positive numbers. From this, I was able to find which item was added to my inventory. With a bit of guessing and luck, I was able to find the offsets for items I wanted to change.
